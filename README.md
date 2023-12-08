@@ -62,7 +62,7 @@ This project utilizes the Google Cloud Speech-to-Text API and ChatGPT API for au
 
 Feel free to contribute, report issues, or make suggestions!
 
-##Here is the Snapsht of the final project
+##Here is the Snapshot of the final Result.
 -Left console is for the Arduino IDE and Right one for the local server.
 ![merged_image](https://github.com/Rizwan1387/Xiao_ESp32-s3_Voice-Assistant/assets/112602890/ba1a80d6-aa83-415f-a08e-5a97e327218c)
 
